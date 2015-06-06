@@ -1,0 +1,77 @@
+<html><head> 
+<style type="text/css">
+.stylehead {color: #8B7765; font-size:50px; font-family:Arial; text-transform: uppercase}
+.styletable {color: #8B7765; font-size:20px; font-family:Arial}
+.styletext {color: #8B8B83; font-size:15px; font-family:Arial}
+</style>
+</head>
+<body>
+<h1 align= "center" style="margin: 30px"><font class="stylehead">резюме</font></h1>
+<p>
+</p>
+<table align="center" width="70%" border="1" ;="" frame="void" rules="none" bgcolor= "#FFEFDB" cellpadding=10>
+<tbody><tr>
+<td>
+<font class="styletable">Кулиш Елена Викторовна</font>
+</td>
+<td rowspan="4"><img src="photo.jpg" alt="Это я:)" height="150" align="right"></td>
+</tr>
+<tr>
+<td>
+<font class="styletable">e-mail: elenakulish91@gmail.com</font>
+</td>
+</tr>
+<tr>
+<td>
+<font class="styletable"><a target="_blank" href="https://www.facebook.com/helen.levina.376">страница в Facebook</a></font>
+</td>
+</tr>
+<tr>
+<td>
+<font class="styletable">Тел.: 096-10-32-084</font>
+</td>
+</tr>
+</tbody></table>
+<p>
+</p>
+<table align="center" width="70%" border="1" ;="" frame="void" rules="none" cellpadding=10>
+<tbody><tr>
+<td>
+<font class="styletable">Цель:</font>
+<p>
+</p>
+<font class="styletext">стать первоклассным QA Engineer</font>
+<p>
+</p>
+<font class="styletable">Опыт работы:</font>
+<ul type="circle">
+<li><font class="styletext">Freelance research writer (Livingston Research Group)</font></li>
+<li><font class="styletext">Маркетолог (Рекламная Группа «Акварель»)</font></li>
+<li><font class="styletext">Категорийный менеджер (Эксим Текстиль)</font></li>
+</ul>
+<p>
+</p>
+<font class="styletable">Образование:</font>
+<p>
+</p>
+<font class="styletext">ДНУ им. Олеся Гончара, экономический факультет. Специальность – Маркетинг</font>
+<p>
+</p>
+<font class="styletable">Знание языков:</font>
+<ul type="circle">
+<li><font class="styletext">английский - свободное владение</font></li>
+<li><font class="styletext">немецкий - базовый уровень</font></li>
+</ul>
+<p>
+</p>
+<font class="styletable">Личные качества:</font>
+<p>
+</p>
+<font class="styletext">Умею работать в команде, люблю решать сложные задачи, оптимист по жизни.</font>
+</td>
+</tr>
+</tbody></table>
+<p>
+</p>
+<h2 align="center" style="margin: 30px"><font class="styletable" text align= "center">Благодарю за внимание!</font><h2>
+</body></html>
